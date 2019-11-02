@@ -11,6 +11,7 @@ public class Main {
         for (int i = 0; i < num * num; i++) {
             for (int j = 0; j < num * num; j++) {
                 bo[i][j] = false;
+                //wael
             }
         }
         for (int i = 0; i < num; i++) {
