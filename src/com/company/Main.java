@@ -7,6 +7,7 @@ public class Main {
         int wael = 5;//wael
         // hetha test lil git
         //a7la wael
+        //wael
         boolean[][] bo = new boolean[num * num][num * num];
         for (int i = 0; i < num * num; i++) {
             for (int j = 0; j < num * num; j++) {
