@@ -5,6 +5,8 @@ public class Main {
     public static void main (String[] args) {
         int num = 5;//wael Test
         int wael = 5;//wael
+        // hetha test lil git
+        //a7la wael
         boolean[][] bo = new boolean[num * num][num * num];
         for (int i = 0; i < num * num; i++) {
             for (int j = 0; j < num * num; j++) {
