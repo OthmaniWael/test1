@@ -8,6 +8,7 @@ public class Main {
         // hetha test lil git
         //a7la wael
         //wael
+        //a7la samir
         int a = 1;
         boolean[][] bo = new boolean[num * num][num * num];
         for (int i = 0; i < num * num; i++) {
