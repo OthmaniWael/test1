@@ -56,12 +56,13 @@ public class Main {
         String reverse="";
         boolean b = true;
         for (int i=s.length()-1;i>=0;i--){
-            reverse= reverse +s.charAt(i);
+            reverse += s.charAt(i);
             }
         System.out.println(reverse);
         for (int i=0;i<s.length();i++){
-            if(s.charAt(i)!=reverse.charAt(i)){
+            if (s.charAt(i) != reverse.charAt(i)) {
                 b = false;
+                break;
             }
         }
         if (b){
@@ -75,7 +76,7 @@ public class Main {
         String n = "" ;
         for (int i=0;i<=s.length()-1;i++){
             if(s.charAt(i)!=r){
-                n=n+s.charAt(i);
+                n += s.charAt(i);
             }
         }
         System.out.println(n);
