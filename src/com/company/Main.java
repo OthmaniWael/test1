@@ -5,10 +5,7 @@ public class Main {
     public static void main (String[] args) {
         int num = 5;//wael Test
         int wael = 5;//wael
-        // hetha test lil git
-        //a7la wael
-        //wael
-        //a7la samir
+       //7outa
         int a = 1;
         boolean[][] bo = new boolean[num * num][num * num];
         for (int i = 0; i < num * num; i++) {
